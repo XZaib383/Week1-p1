@@ -1,3 +1,2 @@
-# Week1-p1
-Starting of doing work mission web front end development
+#Demonstration Of Early Stages Web-Development Projects
 projects 1---3 beginner level
